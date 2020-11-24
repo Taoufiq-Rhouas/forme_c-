@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\ado-test\salima2\Form_Brif\Form_Brif\bin\Debug\Form_Brif.exe.config
+C:\Users\admin\Desktop\ado-test\salima2\Form_Brif\Form_Brif\bin\Debug\Form_Brif.exe
+C:\Users\admin\Desktop\ado-test\salima2\Form_Brif\Form_Brif\bin\Debug\Form_Brif.pdb
+C:\Users\admin\Desktop\ado-test\salima2\Form_Brif\Form_Brif\obj\Debug\Form_Brif.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ado-test\salima2\Form_Brif\Form_Brif\obj\Debug\Form_Brif.Form1.resources
+C:\Users\admin\Desktop\ado-test\salima2\Form_Brif\Form_Brif\obj\Debug\Form_Brif.Properties.Resources.resources
+C:\Users\admin\Desktop\ado-test\salima2\Form_Brif\Form_Brif\obj\Debug\Form_Brif.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ado-test\salima2\Form_Brif\Form_Brif\obj\Debug\Form_Brif.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ado-test\salima2\Form_Brif\Form_Brif\obj\Debug\Form_Brif.exe
+C:\Users\admin\Desktop\ado-test\salima2\Form_Brif\Form_Brif\obj\Debug\Form_Brif.pdb
